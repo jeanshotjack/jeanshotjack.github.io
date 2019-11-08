@@ -1,7 +1,7 @@
 #avatar {
     width: 300px;
     border-radius: 80%;
-    box-shadow: 1px 1px;
+    box-shadow: 1px 1px #ff715b;
 }
 
 body {
@@ -56,6 +56,7 @@ h3 {
 #mainCard {
     width: 40rem;
     margin: auto;
+    box-shadow: 1px 1px #ffc914;
 }
 
 .card {
@@ -66,6 +67,7 @@ h3 {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     color: #dedfdf;
+    box-shadow: 1px 1px #ff715b;
 }
 
 .btn {
