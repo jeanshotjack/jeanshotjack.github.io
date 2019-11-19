@@ -8,6 +8,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     background-color: #232a2a;
+    height: 100vh;
 }
 
 h1, h2 {
@@ -34,12 +35,14 @@ h3 {
     height: 100vh;
     color: #dedfdf;
     margin: auto;
+    overflow: hidden;
 }
 
 #cont {
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
+    height: 100vh;
 }
 
 #gallery, #about {
